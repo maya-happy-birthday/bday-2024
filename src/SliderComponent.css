@@ -1,0 +1,130 @@
+/* src/SliderComponent.css */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Caveat:wght@400..700&display=swap');
+
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent scrolling */
+  width: 100%;
+  height: 100%;
+}
+
+.additional-photos {
+  margin-top: 400px;
+  display: flex;
+  flex-wrap: wrap; /* Allow photos to wrap to the next line */
+  justify-content: center;
+  padding: 20px;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.additional-photos img {
+  max-width: 300px; /* Fixed width for additional photos */
+  max-height: 300px; /* Fixed height for additional photos */
+  object-fit: contain;
+  margin: 10px;
+  border: 4mm ridge rgb(249, 211, 165);
+}
+
+.slider-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 200px auto 0;
+  overflow: hidden;
+  box-sizing: border-box;
+  position: relative;
+  padding-bottom: 40px;
+}
+
+.slick-prev, .slick-next {
+  z-index: 2;
+  top: 50%;
+  width: 40px;
+  height: 40px;
+  transform: translateY(-50%); 
+  background: rgba(0, 0, 0, 0);
+  color: white;
+  border-radius: 50%;
+}
+
+.slick-prev {
+  left: 10px;
+}
+
+.slick-next {
+  right: 10px;
+}
+
+.slick-dots {
+  bottom: -15px;
+}
+
+.slick-dots li button:before {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.slick-dots li.slick-active button:before {
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.slide {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  padding: 0; /* Remove any padding */
+  margin: 0;
+}
+
+.flip-card {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  perspective: 1000px;
+  border: 4mm ridge rgb(249, 211, 165);
+  box-sizing: border-box; 
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+
+}
+
+.flip-card-front {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-size: 100% auto;
+}
+
+.flip-card-front img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+
+.flip-card-back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(-45deg, #eed8c0 0%, #9292b4 100%); /* Gradient background */
+  color: #000;
+  transform: rotateY(180deg);
+  opacity: 0;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.flip-card-text {
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Amatic SC';
+  font-weight: 700;
+}

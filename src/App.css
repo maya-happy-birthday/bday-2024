@@ -1,38 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  height: 280vh;
+  overflow-x: hidden;
+  flex-direction: column;
+  background-image: url('./img/bcg.jpg');
+  background-position: center;
+}
+
+.header {
+  width: 100%;
+  padding: 20px;
+  background: rgba(66, 66, 117, 0.5); /* Semi-transparent background */
+  font-size: medium;
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  text-align: center;
+  z-index: 1; /* Ensure the header is above the background */
+  box-sizing: border-box;
+  position: static; /* Fix the header at the top */
+  font-family: 'Caveat';
+  top: 0;
+  left: 0;
 }
