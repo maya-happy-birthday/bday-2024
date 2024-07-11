@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bday-2024/static/css/main.37bb579b.css",
-    "main.js": "/bday-2024/static/js/main.5f2c11d1.js",
+    "main.css": "/bday-2024/static/css/main.853e8078.css",
+    "main.js": "/bday-2024/static/js/main.784a223f.js",
     "static/js/453.c474e6ee.chunk.js": "/bday-2024/static/js/453.c474e6ee.chunk.js",
     "static/media/8.jpg": "/bday-2024/static/media/8.ca1fb4355b452d94b0f8.jpg",
     "static/media/img11.jpg": "/bday-2024/static/media/img11.06caf5311ac2d29e29a3.jpg",
@@ -15,6 +15,7 @@
     "static/media/9.jpg": "/bday-2024/static/media/9.5faa890b4d0ab082a006.jpg",
     "static/media/3.jpg": "/bday-2024/static/media/3.9175d007aa5e727c7ca0.jpg",
     "static/media/img9.jpg": "/bday-2024/static/media/img9.73a05fbd6ffae225b551.jpg",
+    "static/media/img13.jpg": "/bday-2024/static/media/img13.650940cf69a3ff426b08.jpg",
     "static/media/7.jpg": "/bday-2024/static/media/7.4192b886fadb3580e0bc.jpg",
     "static/media/20.jpg": "/bday-2024/static/media/20.e818bd980dc15b8a0f72.jpg",
     "static/media/21.jpg": "/bday-2024/static/media/21.2c70f3c199216e92980b.jpg",
@@ -32,8 +33,8 @@
     "static/media/16.jpg": "/bday-2024/static/media/16.89d85ce1fc221c8d27ac.jpg",
     "static/media/4.jpg": "/bday-2024/static/media/4.b72991ac1fae7ecb7c80.jpg",
     "static/media/19.jpg": "/bday-2024/static/media/19.b8ce04ff26cc0437bb47.jpg",
-    "static/media/img13.jpg": "/bday-2024/static/media/img13.ac7185271162f7b9d6d2.jpg",
     "static/media/1.jpg": "/bday-2024/static/media/1.78c55f85145aa851eba2.jpg",
+    "static/media/img14.jpg": "/bday-2024/static/media/img14.e70445835f483274cc87.jpg",
     "static/media/0.jpg": "/bday-2024/static/media/0.6c12ec94089a137fcd96.jpg",
     "static/media/15.jpg": "/bday-2024/static/media/15.3446a9bb09ec468b237a.jpg",
     "static/media/18.jpg": "/bday-2024/static/media/18.a5307e8ab4751e96bff3.jpg",
@@ -43,12 +44,12 @@
     "static/media/slick.ttf": "/bday-2024/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bday-2024/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bday-2024/index.html",
-    "main.37bb579b.css.map": "/bday-2024/static/css/main.37bb579b.css.map",
-    "main.5f2c11d1.js.map": "/bday-2024/static/js/main.5f2c11d1.js.map",
+    "main.853e8078.css.map": "/bday-2024/static/css/main.853e8078.css.map",
+    "main.784a223f.js.map": "/bday-2024/static/js/main.784a223f.js.map",
     "453.c474e6ee.chunk.js.map": "/bday-2024/static/js/453.c474e6ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37bb579b.css",
-    "static/js/main.5f2c11d1.js"
+    "static/css/main.853e8078.css",
+    "static/js/main.784a223f.js"
   ]
 }
