@@ -4,7 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 280vh;
+  min-height: 100vh;
   overflow-x: hidden;
   flex-direction: column;
   background-image: url('./img/bcg.jpg');
@@ -20,7 +20,7 @@
   text-align: center;
   z-index: 1; /* Ensure the header is above the background */
   box-sizing: border-box;
-  position: static; /* Fix the header at the top */
+  position: relative; /* Fix the header at the top */
   font-family: 'Caveat';
   top: 0;
   left: 0;
