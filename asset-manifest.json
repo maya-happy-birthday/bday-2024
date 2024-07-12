@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bday-2024/static/css/main.3763022b.css",
-    "main.js": "/bday-2024/static/js/main.6c0d4d1a.js",
+    "main.css": "/bday-2024/static/css/main.ddfa9640.css",
+    "main.js": "/bday-2024/static/js/main.80dfee33.js",
     "static/js/453.c474e6ee.chunk.js": "/bday-2024/static/js/453.c474e6ee.chunk.js",
     "static/media/8.jpg": "/bday-2024/static/media/8.ca1fb4355b452d94b0f8.jpg",
     "static/media/img11.jpg": "/bday-2024/static/media/img11.06caf5311ac2d29e29a3.jpg",
@@ -10,13 +10,11 @@
     "static/media/img10.jpg": "/bday-2024/static/media/img10.6a4b553368f24e2f1739.jpg",
     "static/media/img2.jpg": "/bday-2024/static/media/img2.b2726bf167e661b6b566.jpg",
     "static/media/img12.jpg": "/bday-2024/static/media/img12.b24a29c56f06b321e5d6.jpg",
-    "static/media/img14.jpg": "/bday-2024/static/media/img14.1aa0394c5514a1009ddd.jpg",
     "static/media/img1.jpg": "/bday-2024/static/media/img1.ee7ea183b4c3d64b07d8.jpg",
     "static/media/img3.jpg": "/bday-2024/static/media/img3.2d111a75573516bd4656.jpg",
     "static/media/9.jpg": "/bday-2024/static/media/9.5faa890b4d0ab082a006.jpg",
     "static/media/3.jpg": "/bday-2024/static/media/3.9175d007aa5e727c7ca0.jpg",
     "static/media/img9.jpg": "/bday-2024/static/media/img9.73a05fbd6ffae225b551.jpg",
-    "static/media/img13.jpg": "/bday-2024/static/media/img13.650940cf69a3ff426b08.jpg",
     "static/media/7.jpg": "/bday-2024/static/media/7.4192b886fadb3580e0bc.jpg",
     "static/media/20.jpg": "/bday-2024/static/media/20.e818bd980dc15b8a0f72.jpg",
     "static/media/21.jpg": "/bday-2024/static/media/21.2c70f3c199216e92980b.jpg",
@@ -44,12 +42,12 @@
     "static/media/slick.ttf": "/bday-2024/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bday-2024/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bday-2024/index.html",
-    "main.3763022b.css.map": "/bday-2024/static/css/main.3763022b.css.map",
-    "main.6c0d4d1a.js.map": "/bday-2024/static/js/main.6c0d4d1a.js.map",
+    "main.ddfa9640.css.map": "/bday-2024/static/css/main.ddfa9640.css.map",
+    "main.80dfee33.js.map": "/bday-2024/static/js/main.80dfee33.js.map",
     "453.c474e6ee.chunk.js.map": "/bday-2024/static/js/453.c474e6ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3763022b.css",
-    "static/js/main.6c0d4d1a.js"
+    "static/css/main.ddfa9640.css",
+    "static/js/main.80dfee33.js"
   ]
 }
